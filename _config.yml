@@ -31,7 +31,7 @@ site:
     width: 40
     height: 40
     url: ../images/logo.png
-  title: Hexo # 页面title
+  title: JerrySimple # 页面title
   favicon: /favicon.png
   board: <p>欢迎交流与分享经验!</p> # 站点公告
   copyright: false # 底部版权信息
@@ -102,7 +102,7 @@ share:
 
 # Github
 github: 
-  username: cofess  # github username
+  username: sunlightzy  # github username
 
 # Comment
 # Gitment
@@ -184,53 +184,51 @@ fb_app_id:
 # profile
 profile:
   enabled: true # Whether to show profile bar
-  avatar: images/avatar.jpg
+  avatar: images/avatar.jpeg
   gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-  author: 昵称
-  author_title: Web Developer & Designer
-  author_description: 个人简介。
-  location: Shenzhen, China
-  follow: https://github.com/cofess
+  author: Jerry Simple
+  author_title: 雨天配抄书,代码配咖啡
+  author_description: 被编程耽误的歌手,业余艺术家
+  location: HangZhou, China
+  follow: https://github.com/sunlightzy
   # Social Links
   social:
     links:
-      github: https://github.com/cofess
-      weibo: http://weibo.com/cofess
-      twitter: https://twitter.com/iwebued
+      github: https://github.com/sunlightzy
+      # weibo: http://weibo.com/sunlightzy
+      # twitter: https://twitter.com/iwebued
       # facebook: /
       # dribbble: /
-      behance: https://www.behance.net/cofess
+      # behance: https://www.behance.net/sunlightzy
       rss: atom.xml
     link_tooltip: true # enable the social link tooltip, options: true, false
   # My Skills 
   skills:
-    Git: ★★★☆☆
-    Gulp: ★★★☆☆
-    Javascript: ★★★☆☆
-    HTML+CSS: ★★★☆☆
-    Bootstrap: ★★★☆☆
-    ThinkPHP: ★★★☆☆
-    平面设计: ★★★☆☆
+    Git: ★★★★☆
+    Java: ★★★★☆
+    Kotlin: ★★★☆☆
+    Go: ★★★☆☆
+    Python: ★★★☆☆
   # My Personal Links
   links:
-    Github: https://github.com/cofess
-    Blog: http://blog.cofess.com
-    微博: http://weibo.com/cofess
-    花瓣: http://huaban.com/cofess
-    Behance: https://www.behance.net/cofess
+    Github: https://github.com/sunlightzy
+    Blog: https://blog.milk4j.com
+    # 微博: http://weibo.com/sunlightzy
+    # 花瓣: http://huaban.com/sunlightzy
+    # Behance: https://www.behance.net/sunlightzy
   # My Personal Labels
   labels:
-    - 前端
-    - 前端开发
-    - 前端重构
-    - Web前端
-    - 网页重构
+    - 后端
+    - Java
+    - Go
+    - 服务端
+    - 90後
   # My Personal Works
   works:
-    name:
-      link: http://www.example.com
+    Blog:
+      link: http://blog.milk4j.com
       date: 2016
   # My Personal Projects
   projects:
-    cofess/gulp-startpro: https://github.com/cofess/gulp-startpro
-    cofess/hexo-theme-pure: https://github.com/cofess/hexo-theme-pure
+    sunlightzy/simple-rpc: https://github.com/sunlightzy/simple-rpc
+    sunlightzy/hexo-theme-pure: https://github.com/sunlightzy/hexo-theme-pure
